@@ -20,6 +20,7 @@ Database connected!
 User inserted!
 ID: 1 , Name: john , Email: john123@email.com
 ID: 2 , Name: Don , Email: don345@gmail.com
+```
 
 📌 Outcome
 - Learned to establish **Java-Database connectivity** with JDBC
